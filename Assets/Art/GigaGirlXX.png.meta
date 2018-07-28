@@ -1,0 +1,423 @@
+fileFormatVersion: 2
+guid: 603b2833f38374b4187f7e42b998c568
+timeCreated: 1475957583
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GigaGirlXX_0
+    21300002: GigaGirlXX_1
+    21300004: GigaGirlXX_2
+    21300006: GigaGirlXX_3
+    21300008: GigaGirlXX_4
+    21300010: GigaGirlXX_5
+    21300012: GigaGirlXX_6
+    21300014: GigaGirlXX_7
+    21300016: GigaGirlXX_8
+    21300018: GigaGirlXX_9
+    21300020: GigaGirlXX_10
+    21300022: GigaGirlXX_11
+    21300024: GigaGirlXX_12
+    21300026: GigaGirlXX_13
+    21300028: GigaGirlXX_14
+    21300030: GigaGirlXX_15
+    21300032: GigaGirlXX_16
+    21300034: GigaGirlXX_17
+    21300036: GigaGirlXX_18
+    21300038: GigaGirlXX_19
+    21300040: GigaGirlXX_20
+    21300042: GigaGirlXX_21
+    21300044: GigaGirlXX_22
+    21300046: GigaGirlXX_23
+    21300048: GigaGirlXX_24
+    21300050: GigaGirlXX_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GigaGirlXX_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 192
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GigaGirlXX_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 192
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GigaGirlXX_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 192
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GigaGirlXX_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 192
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GigaGirlXX_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 192
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GigaGirlXX_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 192
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GigaGirlXX_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 146
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GigaGirlXX_7
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 144
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GigaGirlXX_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 144
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GigaGirlXX_9
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 144
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GigaGirlXX_10
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 149
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GigaGirlXX_11
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 146
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GigaGirlXX_12
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 144
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GigaGirlXX_13
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 144
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GigaGirlXX_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 96
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GigaGirlXX_15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 102
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GigaGirlXX_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 50
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GigaGirlXX_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 48
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GigaGirlXX_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GigaGirlXX_19
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 48
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GigaGirlXX_20
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 53
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GigaGirlXX_21
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 50
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GigaGirlXX_22
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 48
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GigaGirlXX_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 48
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GigaGirlXX_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GigaGirlXX_25
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 6
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
